@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+wishwash.gif
+wishwash.mov
+wishwash(before-gifcompressor.com).gif
+wishwash(right-hand-side).mov
