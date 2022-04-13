@@ -1,5 +1,5 @@
 # Wishwash
-_Wishwash_ takes 4 arguments: a value (usually an iterator), a min, a max, and an inclusive qualifier, and counts back and forth between the min and max to your value. _Wishwash_ can be likened to the modulus operator but instead of being used as a single direction counter restarting at the beginning once reaching the max, _wishwash_ counts backwards once reaching the max, forwards again once reaching the min, and continues as such until reaching the value. This has various UI applications, including color animations and various motion demonstrations which otherwise wouldn't be possible without such an algorithm.
+_Wishwash_ takes 4 arguments: a value (usually an iterator), a min, a max, and an inclusive qualifier, and counts back and forth between the min and max to your value. _Wishwash_ can be likened to the modulus operator but instead of being used as a single direction counter restarting at the beginning once reaching the max, _Wishwash_ counts backwards once reaching the max, forwards again once reaching the min, and continues as such until reaching the value. This has various UI applications, including color animations and various motion demonstrations which otherwise wouldn't be possible without such an algorithm.
 
 <img src="https://user-images.githubusercontent.com/45696445/65821097-1a8eff80-e1ff-11e9-919a-8d330702dad6.gif">
 
@@ -99,7 +99,7 @@ _________________________
 _________________________
 &nbsp;
 ## Notes
-_Wishwash_ takes 4 arguments: a value (usually an iterator), a min, a max, and an inclusive qualifier, and counts back and forth between the min and max to your value. _Wishwash_ can be likened to the modulus operator but instead of being used as a single direction counter restarting at the beginning once reaching the max, _wishwash_ counts backwards once reaching the max, forwards again once reaching the min, and continues as such until reaching the value. This has various UI applications, including color animations and various motion demonstrations which otherwise wouldn't be possible without such an algorithm.
+_Wishwash_ takes 4 arguments: a value (usually an iterator), a min, a max, and an inclusive qualifier, and counts back and forth between the min and max to your value. _Wishwash_ can be likened to the modulus operator but instead of being used as a single direction counter restarting at the beginning once reaching the max, _Wishwash_ counts backwards once reaching the max, forwards again once reaching the min, and continues as such until reaching the value. This has various UI applications, including color animations and various motion demonstrations which otherwise wouldn't be possible without such an algorithm.
 
 ## Installation
 With [npm](http://npmjs.org) do
