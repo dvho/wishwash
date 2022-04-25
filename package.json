@@ -1,6 +1,6 @@
 {
     "name": "wishwash",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Wishwash takes 4 arguments: a value (usually an iterator), a min, a max, and an inclusive qualifier, and counts back and forth between the min and max to your value. Wishwash can be likened to the modulus operator but instead of being used as a single direction counter restarting at the beginning once reaching the max, wishwash counts backwards once reaching the max, forwards again once reaching the min, and continues as such until reaching the value. This has various UI applications, including color animations and various motion demonstrations which otherwise wouldn't be possible without such an algorithm.",
     "main": "wishwash.js",
     "scripts": {
